@@ -30,3 +30,10 @@ h1{
 p{
     font-size: 20px;
 }
+img {
+    height: 200px;
+}
+
+.chamada-video {
+    display: flex;
+}
